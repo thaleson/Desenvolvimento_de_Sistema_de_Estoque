@@ -19,8 +19,8 @@ Este projeto é uma API RESTful simples para gerenciamento de despesas, desenvol
 Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone <https://github.com/thaleson/Sistema_de_Despesas_python>
-cd <https://github.com/thaleson/Sistema_de_Despesas_python>
+git clone https://github.com/thaleson/Sistema_de_Despesas_python
+cd  https://github.com/thaleson/Sistema_de_Despesas_python
 ```
 
 ### 2. Criar e Ativar o Ambiente Virtual

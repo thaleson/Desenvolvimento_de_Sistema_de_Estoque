@@ -160,6 +160,6 @@ pytest
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-```
+
 
 Sinta-se à vontade para ajustar qualquer parte conforme necessário para se adequar ao seu projeto específico. Se precisar de mais alguma coisa, é só me avisar!
